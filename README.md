@@ -25,7 +25,7 @@ To facilitate reproducibility while protecting the model's intellectual property
 
 ## 🚀 Quick Start: Google Colab (Recommended)
 
-The easiest way to reproduce our results (Dice scores + Visualization) without local installation.
+The easiest way to reproduce the Demo results (Dice scores + Visualization) without local installation.
 
 
 1.  Download the `demo.ipynb` file from this repository.
