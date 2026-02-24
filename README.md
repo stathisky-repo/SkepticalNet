@@ -51,8 +51,8 @@ If you prefer to run the demo locally, follow these steps.
 ### 1. Clone this repository
 
 ```bash
-git clone https://anonymous.4open.science/r/SkepticalNet-0D52/
-cd SkepticalNet
+Download repo from https://anonymous.4open.science/r/SkepticalNet-0D52/ and unzip
+cd SkepticalNet-0D52
 ```
 
 ### 2. Set up the environment
