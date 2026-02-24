@@ -1,0 +1,7 @@
+nninteractive
+gdown
+SimpleITK
+numpy
+torch
+matplotlib
+scipy
