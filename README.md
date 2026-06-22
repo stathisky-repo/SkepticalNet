@@ -4,7 +4,7 @@
 
 <br>
 
-This repository contains the **inference code and pre-trained models** for the paper: *"SkepticalNet: A Safety-Aware Interactive Segmentation Framework for Neuro-Oncology"* (Under Review).
+This repository contains the **inference code and pre-trained models** for the paper: *"SkepticalNet: A Safety-Aware Interactive Segmentation Framework for Neuro-Oncology"* (Accepted at MICCAI 2026).
 
 Our method introduces a safety-aware training protocol that prevents "trigger-happy" hallucinations in interactive brain tumor segmentation. This demo showcases inference on a **Pre-treatment Adult Glioma** case from BraTS using point and bounding box interactions.
 
@@ -51,8 +51,8 @@ If you prefer to run the demo locally, follow these steps.
 ### 1. Clone this repository
 
 ```bash
-Download repo from https://anonymous.4open.science/r/SkepticalNet-0D52/ and unzip
-cd SkepticalNet-0D52
+git clone https://github.com/stathisky-repo/SkepticalNet.git
+cd SkepticalNet
 ```
 
 ### 2. Set up the environment
@@ -85,6 +85,14 @@ python demo.py
 
 
 
-## 🛡️ Anonymity Note
+## 📝 Citation
 
-This repository is anonymized for double-blind peer review. The code and weights provided here are sufficient to verify the reproducibility of the method's inference capabilities.
+If you find this code or our paper useful, please consider citing:
+
+@inproceedings{skepticalnet2026,
+  title={SkepticalNet: A Safety-Aware Interactive Segmentation Framework for Neuro-Oncology},
+  author={Kyriazis, Efstathios and Kalliatakis, Grigorios and Bisdas, Sotirios and Tsiknakis, Manolis and Marias, Kostas},
+  booktitle={Accepted at the 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  year={2026},
+  note={To appear}
+}
