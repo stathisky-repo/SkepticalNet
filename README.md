@@ -89,6 +89,7 @@ python demo.py
 
 If you find this code or our paper useful, please consider citing:
 
+```
 @inproceedings{skepticalnet2026,
   title={SkepticalNet: A Safety-Aware Interactive Segmentation Framework for Neuro-Oncology},
   author={Kyriazis, Efstathios and Kalliatakis, Grigorios and Bisdas, Sotirios and Tsiknakis, Manolis and Marias, Kostas},
@@ -96,3 +97,4 @@ If you find this code or our paper useful, please consider citing:
   year={2026},
   note={To appear}
 }
+```
